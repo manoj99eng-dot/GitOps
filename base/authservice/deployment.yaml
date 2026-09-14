@@ -58,4 +58,4 @@ metadata:
   name: authservice
   namespace: default
   annotations:
-    eks.amazonaws.com/role-arn: arn:aws:iam::508262720940:role/authservice-secret-role
+    eks.amazonaws.com/role-arn: arn:aws:iam::562904760957:role/authservice-secret-role
