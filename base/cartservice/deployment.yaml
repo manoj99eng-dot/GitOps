@@ -29,7 +29,7 @@ spec:
               - ALL
           privileged: false
           readOnlyRootFilesystem: true
-        image: manoj99eng/cartservice:11082dfb4b0137ef6fc2c3a247224add50c79350
+        image: manoj99eng/cartservice:null
         ports:
         - containerPort: 7070
         env:
