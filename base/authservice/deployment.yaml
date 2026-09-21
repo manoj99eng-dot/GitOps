@@ -21,7 +21,7 @@ spec:
 
       containers:
         - name: server
-          image: manoj99eng/authservice:9
+          image: manoj99eng/authservice:ed062fd7672b0ef354e2b7306874140ced2e300c
           imagePullPolicy: Always
 
           ports:
